@@ -1,0 +1,2 @@
+# javascript
+javasciprt ödev
